@@ -115,8 +115,8 @@ For detailed architecture information, see [architecture.md](./swe30003-be/docs/
 
 ## API reference
 
-For detailed API reference information, see [architecture.md](./swe30003-be/docs/api-reference.md)
+For detailed API reference information, see [api-reference.md](./swe30003-be/docs/api-reference.md)
 
 ## Data model
 
-For detailed Data model information, see [architecture.md](./swe30003-be/docs/data-models.md)
+For detailed Data model information, see [data-models.md](./swe30003-be/docs/data-models.md)
